@@ -391,9 +391,9 @@ MonoBehaviour:
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
-  m_DialogTitle: Input Text
-  m_DialogOkBtn: OK
-  m_DialogCancelBtn: Cancel
+  m_DialogTitle: "\u8ACB\u8F38\u5165\u6587\u5B57..."
+  m_DialogOkBtn: "\u78BA\u8A8D"
+  m_DialogCancelBtn: "\u53D6\u6D88"
   m_DialogType: 1
 --- !u!114 &632541752
 MonoBehaviour:
